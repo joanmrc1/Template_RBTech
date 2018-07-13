@@ -1,0 +1,26 @@
+.navbar .navbar-collapse {
+    background-color: rgb(220, 234, 238);
+}
+
+.collapse .navbar-collapse {
+    font-size: 12px;
+}
+
+.nav > .navbar-brand {
+    font-size: 22px;
+}
+
+img.caixa{
+    float: left;
+    border: transparent thin solid;
+    padding: 5px;
+    margin: 0px 10px 10px 0;
+    max-width: 186px;
+    /*background: rgb(33, 33, 185);*/
+}
+
+.footer {
+    background: #269abc;
+    text-align: center;
+    color: white; 
+}
